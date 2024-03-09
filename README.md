@@ -75,13 +75,13 @@ plt.plot(x,y)
 ![t1](https://github.com/Kishore00007/TSA_EXP1B/blob/main/1.png)
 
 ### REGULAR DIFFERENCING:
-![t2]()
+![t2](https://github.com/Kishore00007/TSA_EXP1B/blob/main/2.png)
 
 ### SEASONAL ADJUSTMENT:
-![t3]()
+![t3](https://github.com/Kishore00007/TSA_EXP1B/blob/main/3.png)
 
 ### LOG TRANSFORMATION:
-![t4]()
+![t4](https://github.com/Kishore00007/TSA_EXP1B/blob/main/4.png)
 
 
 ### RESULT:
