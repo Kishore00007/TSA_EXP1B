@@ -72,7 +72,7 @@ plt.plot(x,y)
 
 ## OUTPUT:
 ### WITHOUT CONVERSION:
-![t1]()
+![t1](https://github.com/Kishore00007/TSA_EXP1B/blob/main/1.png)
 
 ### REGULAR DIFFERENCING:
 ![t2]()
